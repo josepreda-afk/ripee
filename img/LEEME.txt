@@ -1,0 +1,19 @@
+FOTOS DEL CARRUSEL
+==================
+Copiar en esta carpeta (img/, junto al archivo .html) las fotos con estos nombres:
+
+  carrusel-1.jpg   RIPEE - Gobierno de la Provincia de San Luis (foto institucional)
+  carrusel-2.jpg   Programa de Incentivos Fiscales (PIF)
+  carrusel-3.jpg   Fomento a las Nuevas Inversiones (FONI)
+  carrusel-4.jpg   Exención a la Actividad Industrial
+  carrusel-5.jpg   Gestión de Tierras Fiscales
+  carrusel-6.jpg   Subsidio al Empleo
+  carrusel-7.jpg   Financiamiento de las Actividades Económicas
+
+Recomendado: JPG horizontal de 1920 x 800 px, menos de 300 KB cada una.
+El texto va sobre la mitad izquierda (que se oscurece automáticamente),
+así que conviene que el motivo principal de la foto quede a la derecha.
+
+Si falta alguna foto, esa diapositiva se muestra con el diseño gráfico de la
+página (fondo azul con el ícono del programa). No hace falta tocar el HTML.
+Los textos de cada diapositiva están en el HTML, dentro de <section class="car">.
